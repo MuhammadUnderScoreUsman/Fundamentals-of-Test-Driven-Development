@@ -1,4 +1,4 @@
-# Todo app with TDD
+# Basic CRUD app with TDD
 The is Todo application built with TDD<br/>
 TDD says
 * We write the test first
