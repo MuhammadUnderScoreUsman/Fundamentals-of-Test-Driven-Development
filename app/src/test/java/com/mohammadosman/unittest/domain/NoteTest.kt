@@ -1,4 +1,4 @@
-package com.mohammadosman.unittest.model
+package com.mohammadosman.unittest.domain
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Assertions.assertNotEquals

@@ -57,7 +57,8 @@ dependencies {
     testImplementation "org.junit.jupiter:junit-jupiter-engine:${junit_jupiter_version}"
     testImplementation 'com.squareup.retrofit2:converter-gson:2.9.0'
     // mockito
-    testImplementation "org.mockito:mockito-core:2.21.0"
+    testImplementation "org.mockito:mockito-core:3.0.0"
+    testImplementation "org.mockito:mockito-junit-jupiter:3.0.0"
 
 
 

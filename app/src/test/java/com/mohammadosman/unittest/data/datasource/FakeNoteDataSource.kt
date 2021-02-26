@@ -1,6 +1,6 @@
 package com.mohammadosman.unittest.data.datasource
 
-import com.mohammadosman.unittest.model.Note
+import com.mohammadosman.unittest.domain.Note
 
 const val NOTE_SUCCESS_ID = "1"
 const val NOTE_FAILED_ID = "Fake ID"

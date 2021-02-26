@@ -1,21 +1,12 @@
-package com.mohammadosman.unittest.model
+package com.mohammadosman.unittest.domain
 
-import androidx.room.ColumnInfo
-import androidx.room.Entity
-import androidx.room.PrimaryKey
-
-@Entity(tableName = "Note")
 data class Note(
-    @PrimaryKey(autoGenerate = true)
     val id: String,
 
-    @ColumnInfo(name = " title")
     val title: String,
 
-    @ColumnInfo(name = "content")
     val content: String,
 
-    @ColumnInfo(name = "timestamp")
     val timestamp: String
 ) {
 

@@ -10,8 +10,8 @@ import com.mohammadosman.unittest.data.DefaultNoteRepository.Companion.SEARCH_NO
 import com.mohammadosman.unittest.data.DefaultNoteRepository.Companion.SUCCESS
 import com.mohammadosman.unittest.data.DefaultNoteRepository.Companion.UPDATED
 import com.mohammadosman.unittest.data.datasource.*
-import com.mohammadosman.unittest.model.Note
-import com.mohammadosman.unittest.model.Note.NoteFactory
+import com.mohammadosman.unittest.domain.Note
+import com.mohammadosman.unittest.domain.Note.NoteFactory
 import com.mohammadosman.unittest.util.Resource
 import kotlinx.coroutines.InternalCoroutinesApi
 import kotlinx.coroutines.runBlocking

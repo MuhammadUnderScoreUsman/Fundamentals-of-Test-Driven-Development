@@ -2,7 +2,7 @@ package com.mohammadosman.unittest
 
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
-import com.mohammadosman.unittest.model.Note
+import com.mohammadosman.unittest.domain.Note
 
 
 class NoteFactory(

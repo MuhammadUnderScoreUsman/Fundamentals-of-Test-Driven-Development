@@ -2,7 +2,7 @@ package com.mohammadosman.unittest
 
 import com.mohammadosman.unittest.data.datasource.FakeNoteDataSource
 import com.mohammadosman.unittest.data.datasource.NoteDataSource
-import com.mohammadosman.unittest.model.Note
+import com.mohammadosman.unittest.domain.Note
 
 class DContainer {
 
